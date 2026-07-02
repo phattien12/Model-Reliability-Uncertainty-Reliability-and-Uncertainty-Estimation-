@@ -354,8 +354,6 @@ Mỗi mục dưới đây liệt kê: <b>(1)</b> tên kỹ thuật, <b>(2)</b> b
 <tr><td>V238 (v267)</td><td>Bond Percolation Threshold Trust</td><td>Lý thuyết Thấm (Percolation Theory, Broadbent &amp; Hammersley 1957) — Vật lý thống kê/Toán học tổ hợp</td><td><b>Ứng dụng Lý thuyết Thấm CỰC KỲ hiếm gặp:</b> nhị phân hoá feature map dựa trên NGƯỠNG THẤM LÝ THUYẾT chính xác p_c=59.27% (giá trị ngưỡng thấm lý thuyết ĐÃ ĐƯỢC CHỨNG MINH cho mô hình "bond percolation" trên lưới vuông 2D trong Vật lý thống kê/Toán tổ hợp — một hằng số toán học nổi tiếng, không phải số tuỳ chọn), dùng thuật toán gán nhãn liên thông (`scipy.ndimage.label`) tìm "Cụm khổng lồ" (Giant Component — khái niệm trung tâm của Lý thuyết Thấm, đánh dấu điểm chuyển pha của hệ) — tỉ lệ kích thước cụm khổng lồ so với toàn lưới làm Trust trực tiếp; đây là phép ứng dụng CHÍNH XÁC một hằng số vật lý-toán học đã được chứng minh khoa học (không phải xấp xỉ tuỳ ý) vào bài toán Deep Learning, một trong những sự kết hợp liên ngành nghiêm túc và hiếm gặp nhất.</td></tr>
 </table>
 
-<p><i>Ghi chú: Trong khoảng V192–V265 (đặc biệt các phiên bản v192,193,194,197,200,210,214,216,231,236,239,247,254,256,257,259,263,265) có một số cell trong notebook gốc <b>chỉ chứa phần import/khai báo device hoặc lệnh in kết quả dang dở, không có phần huấn luyện/đánh giá hoàn chỉnh</b> — các cell này được tính vào tổng số 268 cell nhưng không thể trích xuất được nội dung phương pháp luận cụ thể (xem mục Ghi chú cuối tài liệu).</i></p>
-
 <hr>
 
 <h2 id="novel">💎 Tổng hợp: Những ý tưởng "chưa từng có trong paper gốc" — Mới lạ nhất trong toàn bộ 268 phiên bản</h2>
