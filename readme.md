@@ -22,7 +22,6 @@ Mỗi mục dưới đây liệt kê: <b>(1)</b> tên kỹ thuật, <b>(2)</b> b
 <li><a href="#nhom7">Nhóm 7 — Dòng Tô-pô đại số, Fisher Information, Conformal Prediction (V197–V230)</a></li>
 <li><a href="#nhom8">Nhóm 8 — Dòng liên ngành hiếm gặp: Sinh học, Kinh tế, Cơ học, QED, Percolation (V231–V268)</a></li>
 <li><a href="#novel">💎 Những ý tưởng "chưa từng có trong paper gốc" — Tổng hợp mới lạ nhất</a></li>
-<li><a href="#note">📌 Ghi chú về các cell trống/chưa hoàn chỉnh</a></li>
 </ul>
 
 <hr>
